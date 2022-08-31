@@ -18,6 +18,11 @@ nav{
     align-items: center;
     font-size: 20px;
 }
+.menu li:hover {
+    color: rgb(95, 93, 93);
+    transform: scale(1.2);
+    text-shadow: none;
+  }
 
 .menu li{
     padding: 10px;
