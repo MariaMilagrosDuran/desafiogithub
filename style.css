@@ -33,12 +33,12 @@ nav{
     color: #fff;
 }
 
-.contenedor{
+.container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
+
 
 .contenedor__title{
     font-size: 100px;
